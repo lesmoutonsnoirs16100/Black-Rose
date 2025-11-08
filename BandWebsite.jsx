@@ -5,8 +5,8 @@ import React from "react";
 
 export default function BandWebsite() {
   const BAND_NAME = "Black Rose";
-  const logoSrc = "/mnt/data/473804782_1295636628177274_1163752926575167948_n.jpg";
-  const contactEmail = "booking@blackroseband.com";
+  const logoSrc = "BlackRoseLogo.jpg";
+  const contactEmail = "turner.jason.1984@gmail.com";
 
   const bio = {
     en: `Black Rose are a high-energy rock covers band playing classic and contemporary rock anthems — tight riffs, big choruses, and anthemic live shows. Available for pubs, private parties, and festivals.`,
